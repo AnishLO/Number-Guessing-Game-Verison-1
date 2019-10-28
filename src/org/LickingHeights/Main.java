@@ -20,8 +20,9 @@ public class Main {
             System.out.println(pickNumber);
 
 
-            
-        }while
+
+        }while (pickNumber>100);
+
 
 
     }
