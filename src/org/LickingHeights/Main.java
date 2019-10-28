@@ -7,7 +7,9 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner keyboard = new Scanner(System.in);
-        int picknumber;
+        int pickNumber;
+        pickNumber = (int) (Math.random()*90)+3;
+
 
     }
 
