@@ -22,6 +22,8 @@ public class Main {
 
 
         }while (pickNumber>100);
+        System.out.println("would you like to play again?");
+
 
 
 
