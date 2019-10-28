@@ -9,6 +9,11 @@ public class Main {
         Scanner keyboard = new Scanner(System.in);
         int pickNumber;
         pickNumber = (int) (Math.random()*90)+3;
+        do {
+
+
+
+        }while
 
 
     }
